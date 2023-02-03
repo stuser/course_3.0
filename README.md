@@ -4,7 +4,7 @@
 ## 2_Stat
 ## 3_ML
 程式目錄:
-'''
+```
 part2/
     |--- Chapter1/
         |--- Data_Normalization_Example.ipynb
@@ -85,7 +85,7 @@ part2/
         |--- kmeans.ipynb
         |--- pca_example.ipynb
         |--- tsne_example.ipynb
-'''
+```
 ## 4_DNN
 ## 5_CNN
 ## 6_TL
